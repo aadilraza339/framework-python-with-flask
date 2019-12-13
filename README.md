@@ -21,6 +21,8 @@ Here uses of random module for randomly pick the data from json files.
 Postman
 Postman is a Google Chrome app for interacting with HTTP APIs. It presents you with a friendly GUI for constructing requests and reading responses. You can perform all your CRUD operations using it.
 
-```To install Postman, run the following commands in your terminal.
+To install Postman, run the following commands in your terminal.
+```
 sudo apt-get install snapd.
-snapd install postman ```
+snapd install postman 
+```
