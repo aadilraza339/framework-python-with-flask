@@ -23,4 +23,4 @@ Postman is a Google Chrome app for interacting with HTTP APIs. It presents you w
 
 To install Postman, run the following commands in your terminal.
 <h1 sudo apt-get install snapd h1>
-snapd install postman
+<h2 snapd install postman h2>
